@@ -9,3 +9,8 @@ The 2 images are -:
 
 
 ![donald2](https://user-images.githubusercontent.com/22034866/35480679-a6123a2c-0439-11e8-91b1-0cba12adc0db.jpg)
+
+
+### Similarity is coming out to be -:
+#### Quasi Euclidean norm:  0.93173537733
+#### Manhattan norm:        0.545321941894
